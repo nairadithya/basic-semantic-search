@@ -1,6 +1,6 @@
 # Basic Semantic Search
 
-This is a search engine built with the [`multi-qa-mpnet-base-dot-v1`](https://huggingface.co/sentence-transformers/multi-qa-mpnet-base-dot-v1) model. The model was trained on the [MAKILINGDING/english_dictionary`](https://huggingface.co/datasets/MAKILINGDING/english_dictionary) dataset.
+This is a search engine built with the [`multi-qa-mpnet-base-dot-v1`](https://huggingface.co/sentence-transformers/multi-qa-mpnet-base-dot-v1) model. The model was trained on the [`MAKILINGDING/english_dictionary`](https://huggingface.co/datasets/MAKILINGDING/english_dictionary) dataset.
 
 The embeddings generated from this are hosted [here](https://huggingface.co/datasets/nairadithya/dictionary-embeddings).
 
