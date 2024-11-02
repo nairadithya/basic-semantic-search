@@ -8,3 +8,11 @@ wheels/
 
 # Virtual environments
 .venv
+
+# CSV
+.csv
+
+# Jupyter Ignore
+.ipynb_chepoints/
+.virtual_documents/
+.ipynb_checkpoints
