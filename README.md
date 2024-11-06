@@ -4,7 +4,7 @@ This is a search engine built with the [`multi-qa-mpnet-base-dot-v1`](https://hu
 
 The embeddings generated from this are hosted [here](https://huggingface.co/datasets/nairadithya/dictionary-embeddings).
 
-referenc.md(https://arxiv.org/pdf/1301.3781)
+referenc.md[here](https://arxiv.org/pdf/1301.3781)
 
 ## About This Project
 
