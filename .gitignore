@@ -16,3 +16,4 @@ wheels/
 .ipynb_chepoints/
 .virtual_documents/
 .ipynb_checkpoints
+dictionary_embeddings.csv

@@ -9,6 +9,7 @@ dependencies = [
     "faiss-cpu>=1.9.0",
     "ipywidgets>=8.1.5",
     "nbconvert[webpdf]>=7.16.4",
+    "pytorch-gpu>=0.0.1",
     "torch>=2.5.1",
     "transformers[sentencepiece]>=4.46.1",
 ]
