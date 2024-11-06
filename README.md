@@ -4,6 +4,8 @@ This is a search engine built with the [`multi-qa-mpnet-base-dot-v1`](https://hu
 
 The embeddings generated from this are hosted [here](https://huggingface.co/datasets/nairadithya/dictionary-embeddings).
 
+referenc.md(https://arxiv.org/pdf/1301.3781)
+
 ## About This Project
 
 This is the project we built for 23MAT204(Mathematics For Intelligent Systems 3). It's a demonstration of a vector search engine, and its ability to capture meaning and relations between words and ideas in ways that weren't obvious, and the numerical algorithms that make this capable of doing so.
